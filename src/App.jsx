@@ -36,7 +36,7 @@ function App() {
           style={{ width: '200px', height: '200px' }}
         >
           <img
-            src="/public/img1.jpeg"
+            src="/img1.jpeg"
             style={{ width: '100%', height: '100%', objectFit: 'cover' }}
           />
         </div>
@@ -45,19 +45,19 @@ function App() {
           style={{ width: '200px', height: '200px' }}
         >
           <img
-            src="/public/img2.jpeg"
+            src="/img2.jpeg"
             style={{ width: '100%', height: '100%', objectFit: 'cover' }}
           />
         </div>
         <div className="item " style={{ width: '200px', height: '200px' }}>
           <img
-            src="/public/img3.jpeg"
+            src="/img3.jpeg"
             style={{ width: '100%', height: '100%', objectFit: 'cover' }}
           />
         </div>
         <div className="item " style={{ width: '200px', height: '200px' }}>
           <img
-            src="/public/img4.jpeg"
+            src="/img4.jpeg"
             style={{ width: '100%', height: '100%', objectFit: 'cover' }}
           />
         </div>
@@ -66,7 +66,7 @@ function App() {
           style={{ width: '200px', height: '200px' }}
         >
           <img
-            src="/public/img5.jpeg"
+            src="/img5.jpeg"
             style={{ width: '100%', height: '100%', objectFit: 'cover' }}
           />
         </div>
@@ -75,7 +75,7 @@ function App() {
           style={{ width: '200px', height: '200px' }}
         >
           <img
-            src="/public/img6.jpeg"
+            src="/img6.jpeg"
             style={{ width: '100%', height: '100%', objectFit: 'cover' }}
           />
         </div>
@@ -84,7 +84,7 @@ function App() {
           style={{ width: '200px', height: '200px' }}
         >
           <img
-            src="/public/img7.jpeg"
+            src="/img7.jpeg"
             style={{ width: '100%', height: '100%', objectFit: 'cover' }}
           />
         </div>
@@ -93,31 +93,31 @@ function App() {
           style={{ width: '200px', height: '200px' }}
         >
           <img
-            src="/public/img8.jpeg"
+            src="/img8.jpeg"
             style={{ width: '100%', height: '100%', objectFit: 'cover' }}
           />
         </div>
         {/* <div className="item " style={{ width: '200px', height: '200px' }}>
           <img
-            src="/public/img9.jpeg"
+            src="/img9.jpeg"
             style={{ width: '100%', height: '100%', objectFit: 'cover' }}
           />
         </div>
         <div className="item " style={{ width: '200px', height: '200px' }}>
           <img
-            src="/public/img10.jpeg"
+            src="/img10.jpeg"
             style={{ width: '100%', height: '100%', objectFit: 'cover' }}
           />
         </div> */}
         {/* <div className="item " style={{ width: '200px', height: '200px' }}>
           <img
-            src="/public/img11.jpeg"
+            src="/img11.jpeg"
             style={{ width: '100%', height: '100%', objectFit: 'cover' }}
           />
         </div> */}
         {/* <div className="item " style={{ width: '200px', height: '200px' }}>
           <img
-            src="/public/img12.jpeg"
+            src="/img12.jpeg"
             style={{ width: '100%', height: '100%', objectFit: 'cover' }}
           />
         </div> */}
